@@ -1,0 +1,10 @@
+{
+  "name": "Sinatra",
+  "version": "1.0.0",
+  "description": "A simple worker-like project to serve VPN links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
